@@ -60,9 +60,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 3. Use os prompts de artes no `midjourney`
 
 ## 👨‍💻 Expert
-
- 
-   
+<p>
     <a 
         href="https://github.com/LuksPcabral">
         GitHub
