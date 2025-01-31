@@ -67,7 +67,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/lukscabral">
+        href="linkedin.com/in/lukscabral/">
         LinkedIn
     </a>
     &nbsp;|&nbsp;
